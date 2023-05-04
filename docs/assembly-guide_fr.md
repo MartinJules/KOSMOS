@@ -152,7 +152,7 @@ Les étapes suivantes nécessitent des compétences en soudure électronique. Vo
 ![AG1-22](pictures/assembly_guide/AG1-22.JPG)
 
 
- - Souder à la borne positive d'un connecteur XT60, un câble rouge (14AWG) d'une longueur de 220 mm. 
+ - Souder à la borne positive d'un connecteur XT60, un câble rouge (14AWG) d'une longueur de 220 mm. Attention à bien mettre la gaine jusque dans le trou du XT60. (les photos pourraient peut-être être améliorées pour plus de clarté).
 
 ![AG1-23](pictures/assembly_guide/AG1-23.JPG)
 
@@ -184,7 +184,7 @@ Les étapes suivantes nécessitent des compétences en soudure électronique. Vo
 ![AG1-28](pictures/assembly_guide/AG1-28.JPG) 
 
 
- - Rallonger les fils de sortie 5v du convertisseur pour sertir une prise Dupont femelle. On utilisera un connecteur dupont 3 broches avec la masse au centre et le fil du positif à droite ou à gauche cela n'a pas d'importance. De cette manière il ne sera pas possible de brancher l'alimentation 5 v à l'envers. 
+ - Rallonger les fils de sortie 5v du convertisseur pour sertir une prise Dupont femelle. On utilisera un connecteur dupont 3 broches avec la masse au centre et le fil du positif à droite ou à gauche cela n'a pas d'importance. De cette manière il ne sera pas possible de brancher l'alimentation 5 v à l'envers. (Mettre une photo ici pourrait aider à la compréhension)
 
 
  - Couper le connecteur dupont de la prise de BEC de l'ESC (3 fils, jaune, rouge et marron ou noir). Y sertir un connecteur JST à deux broches. En excluant le fil rouge. Attention au sens. Le fil jaune destiné au signal doit être placé du coté de l'afficheur de niveau de batterie. 
